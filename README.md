@@ -1,4 +1,4 @@
-## Olá! Sou o Lucas Martins 👋
+# Olá! Sou o Lucas Martins 😎👍
 
 <div align="center">
   <a href="https://github.com/lucasufc">
