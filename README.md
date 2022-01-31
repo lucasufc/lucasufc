@@ -1,5 +1,7 @@
-# Olá! Sou o Lucas Martins 😎👍
-
+# Hi i'm Lucas Martins 😎👍
+<p>
+ I am a computer engineering student. I started studying webdev in 2021, since then I'm falling in love with web development, I'm still in the learning phase but looking for a job
+</p>
 <div align="center">
   <a href="https://github.com/lucasufc">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasufc&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
