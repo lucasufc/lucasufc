@@ -1,6 +1,6 @@
 # Hi i'm Lucas Martins 😎👍
 <p>
- I am a computer engineering student. I started studying webdev in 2021, since then I'm falling in love with web development, I'm still in the learning phase but looking for a job
+ I am a computer engineering student. I started studying webdev in 2021, since then I'm falling in love with web development
 </p>
 <div align="center">
   <a href="https://github.com/lucasufc">
