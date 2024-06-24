@@ -1,6 +1,6 @@
 # Hi i'm Lucas Martins 😎👍
 <p>
- I am a computer engineering student. I started studying webdev in 2021, since then I'm falling in love with web development
+Software Engineer with 2 years of experience in full-stack web development, focusing on Python, FastAPI, AioHTTP, Pytest, AWS Services, SQLAlchemy, SQL, MySQL, PostgreSQL, JavaScript, TypeScript, React, Jest, and Retool. Strong skills in both frontend and backend development, with experience in integrations, API creation, database management, AWS Lambda development, pricing, integrations with external services, and multidisciplinary projects.
 </p>
 
   ##
